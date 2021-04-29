@@ -674,10 +674,6 @@ i{
     display: none;
 }
 
-#markdown {
-    display: none;
-}
-
 /* MEDIA QUERIES */
 @media(min-width: 580px) {
 
@@ -803,13 +799,6 @@ i{
 
     #comport-present {
         margin-left: 38px;
-    }
-
-    #markdown {
-        display: block;
-        position: absolute;
-        left: 50%;
-        bottom: 10px;
     }
 
     /* ABOUT PAGE */
